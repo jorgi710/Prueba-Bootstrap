@@ -1,0 +1,11 @@
+
+.fondo{
+  background-color: rgb(243, 227, 198);
+}
+.red{
+  background-color: white;
+  border: 3px solid red;
+  height: 120px;
+  width: 200px;
+
+}
